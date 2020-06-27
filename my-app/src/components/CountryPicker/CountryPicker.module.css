@@ -1,0 +1,10 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+   
+}
+
+.formControl:hover{
+    transition: 0.3s ease;
+    box-shadow: -10px 25px 50px rgba(0, 0, 0, 0.3);
+}
